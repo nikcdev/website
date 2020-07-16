@@ -1,0 +1,4 @@
+baseURL = "https://nikc.dev/"
+languageCode = "en-us"
+title = "nikc's website"
+theme = "book"
